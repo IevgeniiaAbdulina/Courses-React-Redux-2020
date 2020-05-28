@@ -3,4 +3,5 @@ Project has been created with Udemy courses [Modern React with Redux [2020 Updat
 
 ### Projects:
 - [JSX](./1-jsx)
-- [comments](./2-comments)
+- [Comments](./2-comments)
+- [Seasons](./3-seasons)
