@@ -1,6 +1,6 @@
 # The season project.
 
--Show winter or summer season, depends on location.\
+-Show winter or summer season, depends on location.
 
 _Using:_
 
