@@ -9,3 +9,4 @@ You can download and try all this [projects here](https://github.com/IevgeniiaAb
 - [Search images (Unsplash API)](./4-search)
 - [Video browser (YouTube API)](./5-video-browser-app)
 - [Songs list (Redux)](./6-songs-list)
+- [Blog posts (Ridux-Thunk)](./7-blog-posts)
