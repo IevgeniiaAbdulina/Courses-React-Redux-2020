@@ -10,3 +10,4 @@ You can download and try all this [projects here](https://github.com/IevgeniiaAb
 - [Video browser (YouTube API)](./5-video-browser-app)
 - [Songs list (Redux)](./6-songs-list)
 - [Blog posts (Ridux-Thunk)](./7-blog-posts)
+- [Stream videos project (React-Router, Redux Form, OAuth, Authentication GAPI, JSON Server, Lodash, Node-Media-Server, OBS Studio, flv.js)](./8-streams)
