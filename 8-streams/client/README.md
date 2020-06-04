@@ -1,4 +1,4 @@
-# Stream videos project (React-Router, Redux Form, OAuth, Authentication GAPI, JSON Server, Lodash, Node-Media-Server, OBS Studio, flv.js)
+# Stream videos project
 
 -Navigation with React Router.\
 -LogIn with Google.\
