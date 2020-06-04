@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Udemy courses",
+      "description": "Modern React with Redux with the best teacher ever!",
+      "userId": "102457473971904414998",
+      "id": 3
+    },
+    {
+      "title": "New stream today",
+      "description": "Check  my new stream!",
+      "userId": "102457473971904414998",
+      "id": 7
+    },
+    {
+      "title": "One more stream ",
+      "description": "Good news!!!",
+      "userId": "102457473971904414998",
+      "id": 8
+    }
+  ]
+}
