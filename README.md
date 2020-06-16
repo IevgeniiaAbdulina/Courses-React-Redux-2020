@@ -13,3 +13,4 @@ You can download and try all this [projects here](https://github.com/IevgeniiaAb
 - [Stream videos project (React-Router, Redux Form, OAuth, Authentication GAPI, JSON Server, Lodash, Node-Media-Server, OBS Studio, flv.js)](./08-streams)
 - [Translate (Redux vs Context)](./09-translate)
 - [Hooks simple project (React Hooks)](./10-hooks-simple)
+- [Season project with Hooks system (React Hooks)](./11-seasons-hooks)
